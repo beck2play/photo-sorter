@@ -1,0 +1,8 @@
+#folders
+/out
+/test/out
+
+#files
+
+#extensions
+*.iml
